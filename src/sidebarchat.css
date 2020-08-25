@@ -1,0 +1,26 @@
+ .sidebarchat
+{
+    display: flex;
+    align-items: center;
+    min-width: 2vw;
+    padding-left:20px;
+} 
+
+.sidebarchat:hover{
+    background-color:#ebebeb;
+}
+
+.SidebarCharinfo > h2
+{
+    font-size:16px;
+    margin-bottom:8px;
+}
+
+a{
+    color:black;
+}
+.SidebarCharinfo
+{
+  margin-left:10px;
+  line-height: 1ch;
+} 
